@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://www.toolmin.org/dns-tools/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
